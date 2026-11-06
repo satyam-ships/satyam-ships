@@ -181,13 +181,9 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)-->
 
 ## 🐾 GitHub Activity
-<a href="https://github.com/git-goods/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/satyam-ships"
-    width="1000"
-    height="120"
-    alt="GitAnimals"
-  />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/satyam-ships"/>
+</a>
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
