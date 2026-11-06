@@ -183,7 +183,7 @@ Strong knowledge of both frontend and backend technologies, focused on deliverin
 ## 🐾 GitHub Activity
 <a href="https://github.com/git-goods/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/YOUR_USERNAME"
+    src="https://render.gitanimals.org/lines/satyam-ships"
     width="1000"
     height="120"
     alt="GitAnimals"
